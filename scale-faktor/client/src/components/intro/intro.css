@@ -1,0 +1,17 @@
+.intro-cd{
+    border:1px solid #403f3f;
+    max-width: 80vw;
+    align-self: start;
+    padding: 5vh;
+    border-radius: 8px;
+}
+.heading{
+    color: #cccccc;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: xxx-large;
+}
+.bd-text{
+    margin: 1vw;
+    font-family: 'JetBrains Mono', monospace;
+    color: springgreen;
+}
